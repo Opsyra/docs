@@ -4,8 +4,8 @@
   "name": "OPSYRA Documentation",
   "colors": {
     "primary": "#ff0a4b",
-    "light": "#07C983",
-    "dark": "#15803D"
+    "light": "#ff0a4b",
+    "dark": "#ff0a4b"
   },
   "favicon": "/v1.svg",
   "navigation": {
