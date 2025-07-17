@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="210" height="168">
+  <g transform="translate(0, 72)">
+    <path d="M 0 48 L 105 0 L 210 48 L 105 96 Z" fill="#FF0A4B" opacity="0.2"/>
+  </g>
+  <g transform="translate(0, 48)">
+    <path d="M 0 48 L 105 0 L 210 48 L 105 96 Z" fill="#FF0A4B" opacity="0.4"/>
+  </g>
+  <g transform="translate(0, 24)">
+    <path d="M 0 48 L 105 0 L 210 48 L 105 96 Z" fill="#FF0A4B" opacity="0.6"/>
+  </g>
+  <path d="M 0 48 L 105 0 L 210 48 L 105 96 Z" fill="#FF0A4B" opacity="0.8"/>
+</svg>

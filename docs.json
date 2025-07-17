@@ -1,13 +1,13 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
-  "name": "Mint Starter Kit",
+  "name": "OPSYRA Documentation",
   "colors": {
     "primary": "#ff0a4b",
     "light": "#07C983",
     "dark": "#15803D"
   },
-  "favicon": "/favicon.svg",
+  "favicon": "/v1.svg",
   "navigation": {
     "tabs": [
       {
@@ -89,14 +89,14 @@
     }
   },
   "logo": {
-    "light": "/logo/light.svg",
-    "dark": "/logo/dark.svg"
+    "light": "/v1.svg",
+    "dark": "/v1.svg"
   },
   "navbar": {
     "links": [
       {
         "label": "Support",
-        "href": "mailto:hi@mintlify.com"
+        "href": "mailto:contact@opsyra.live"
       }
     ],
     "primary": {
